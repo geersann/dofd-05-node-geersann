@@ -1,3 +1,6 @@
+[![CI Pipeline](https://github.com/geersann/dofd-05-node-geersann/actions/workflows/wfl.yml/badge.svg)](https://github.com/geersann/dofd-05-node-geersann/actions/workflows/wfl.yml)
+
+
 # Description
 This project is the Node.js backend part of an educational  project. It provides connection to DB, implements CRUD operations and sends responses to requests. 
 ## Setup
